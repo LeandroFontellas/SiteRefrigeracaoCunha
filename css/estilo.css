@@ -26,10 +26,11 @@ section{
   background-color: white;
   box-shadow: 0px 5px 5px rgba(0,0,0,.5);
   padding: 5px;
-  position: relative;
-  left: 150px;
-  top: 50px;
-  margin-right: 250px;
+  width: 70%;
+  margin-top: 25px;
+	margin-left: auto;
+	margin-right: auto;
+
 }
 header{
   	background-image: linear-gradient(to right, rgb(0,119,136), rgb(7,213,213));
@@ -44,7 +45,7 @@ header h1{
   font-size: 30px;
   color: #ffffff;
   text-shadow: 1px 1px 1px rgba(0,0,0,.6);
-  padding: 0px;
+  padding: 5px 0px 0px 10px;
   margin-bottom: 0px;
 
 }
@@ -53,6 +54,7 @@ header h2{
   font-family: 'Titillium Web', sans-serif;
   color: lightgray;
   font-size: 15pt;
+	padding: 5px 0px 0px 10px;
 }
 
 section h1{
@@ -68,16 +70,16 @@ section p{
 form{
   background-color: lightgray;
   box-shadow: 0px 5px 5px rgba(0,0,0,.5);
-  position: relative;
-  margin-right: 250px;
-  left: 150px;
-  top: 100px;
+	width: 70%;
+  margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 form legend{
   font-family: 'FonteLogo', sans-serif;
   text-decoration: underline;
-  font-size: 25px;
+  font-size: 20px;
   color: black;
 }
 
